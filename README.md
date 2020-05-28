@@ -14,4 +14,4 @@ The detections generated from these 3 models and combined and then using Non-Max
 The next step is to creating a method where each model effectively gets a 'vote' on each detection to create a more nuanced set of detections labeled as either high confidence or requiring human review.  This will also need to identify erroneous classes such as a labeling a street light as kite. 
  
 
-![](sample images/Example1.png)
+![](SampleImages/Example1.png)
